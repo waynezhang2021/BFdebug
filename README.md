@@ -1,5 +1,5 @@
 # BFdebug
-A Brainf*** debugging&amp;execution program,which supports some additional commands than traditional BF.
+A Brainfuck debugging&amp;execution system.(I added some commands to the traditional version).
 
 Is a Win32 console application.Supports direct execution and debug(step).
 
